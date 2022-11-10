@@ -1,3 +1,3 @@
-# Machine-Learning-Project-2k1
+# Machine-Learning-Project
 
 lol
